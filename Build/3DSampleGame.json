@@ -1,0 +1,13 @@
+{
+"companyName": "Unity Technologies",
+"productName": "Survival Shooter Online",
+"dataUrl": "3DSampleGame.data.unityweb",
+"asmCodeUrl": "3DSampleGame.asm.code.unityweb",
+"asmMemoryUrl": "3DSampleGame.asm.memory.unityweb",
+"asmFrameworkUrl": "3DSampleGame.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
